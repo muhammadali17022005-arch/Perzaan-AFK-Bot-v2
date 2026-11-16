@@ -5,7 +5,7 @@
   "server": {
     "ip": "wifi-e5NN.aternos.me",
     "port": 13033
-    "version": "26.3"
+    "version": "1.20.4"
   },
   "auto-reconnect": true
 }
