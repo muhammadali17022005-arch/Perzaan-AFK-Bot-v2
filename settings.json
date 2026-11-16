@@ -1,1 +1,11 @@
-
+{
+  "bot-account": {
+    "username": "AFK_Bot_247"
+  },
+  "server": {
+    "ip": "apna-server-ip.aternos.me",
+    "port": 12345,
+    "version": "1.20.4"
+  },
+  "auto-reconnect": true
+}
