@@ -3,9 +3,9 @@
     "username": "AFK_Bot_247"
   },
   "server": {
-    "ip": "apna-server-ip.aternos.me",
-    "port": 12345,
-    "version": "1.20.4"
+    "ip": "wifi-e5NN.aternos.me",
+    "port": 13033
+    "version": "26.3"
   },
   "auto-reconnect": true
 }
